@@ -39,8 +39,5 @@ The following screenshot shows the ContextMenu in AddNewRow in [WinForms DataGri
 ![Shows the context menu in AddNewRow of SfDataGrid](ContextMenuShowing.png)
 
 Take a moment to peruse the [WinForms DataGrid - Context Menu](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#context-menu) documentation, where you can find about Context Menu with code examples.
-
-Please refer this [link](https://www.syncfusion.com/winforms-ui-controls/datagrid) to know about the essential features of WinForms DataGrid.
-
 ## Requirements to run the demo
 Visual Studio 2015 and above versions

@@ -1,7 +1,7 @@
 # How to show the context menu while adding a new record using AddNewRow in WinForms DataGrid?
 
 ## About the sample
-This example illustrates how to show the context menu while adding a new record using AddNewRow in DataGrid?
+This example illustrates how to show the context menu while adding a new record using AddNewRow in DataGrid.
 
 While adding a new records in [WinForms DataGrid](https://www.syncfusion.com/winforms-ui-controls/datagrid) (SfDataGrid) does not provide the direct support to showing Context Menu in **AddNewRow**. You can achieve your requirement by customization the **MouseUp** event in [SfDataGrid.TableControl](https://help.syncfusion.com/cr/windowsforms/Syncfusion.WinForms.DataGrid.SfDataGrid.html#Syncfusion_WinForms_DataGrid_SfDataGrid_TableControl).
 
@@ -37,9 +37,7 @@ The following screenshot shows the ContextMenu in AddNewRow in DataGrid,
 
 ![Shows the context menu in AddNewRow of SfDataGrid](ContextMenuShowing.png)
 
-Take a moment to peruse the [WinForms DataGrid - Context Menu](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#context-menu) documentation, where you can find about Context Menu with code examples.
-
-Please refer this [link](https://www.syncfusion.com/winforms-ui-controls/datagrid) to know about the essential features of WinForms DataGrid.
+Take a moment to peruse the [WinForms DataGrid - Context Menu](https://help.syncfusion.com/windowsforms/datagrid/interactivefeatures#context-menu) documentation, where you can find about context menu with code examples.
 
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
